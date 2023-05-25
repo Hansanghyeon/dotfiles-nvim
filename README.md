@@ -1,8 +1,26 @@
-# neovim
+require ubuntu nvim 9.0
+
+https://github.com/neovim/neovim/wiki/Installing-Neovim#ubuntu
 
 ```shell
-npx degit https://github.com/hansanghyeon/dotfiles/nvim folder-name 
+apt remove neovim
+./nvim.appimage --appimage-extract
+ln -s /squashfs-root/AppRun /usr/bin/vim
 ```
+
+install Packer
+
+```shell
+git clone --depth 1 https://github.com/wbthomason/packer.nvim\
+ ~/.local/share/nvim/site/pack/packer/start/packer.nvim
+```
+
+telescop dependencies
+
+```shell
+apt-get install ripgrep fd-find
+```
+
 
 ## package manager
 
