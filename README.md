@@ -35,3 +35,9 @@ apt-get install ripgrep fd-find
 
 - [ ] typescript LSP
 - [ ] plugins
+
+## all-in-one?
+
+- [NvChad/NvChad: Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.](https://github.com/NvChad/NvChad)
+- [LunarVim/LunarVim: 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.](https://github.com/lunarvim/lunarvim)
+- [CosmicNvim/CosmicNvim: CosmicNvim is a lightweight and opinionated Neovim config for web development, specifically designed to provide a 💫 COSMIC programming experience!](https://github.com/CosmicNvim/CosmicNvim)
