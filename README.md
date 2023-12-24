@@ -4,6 +4,8 @@ require ubuntu nvim 9.0
 
 https://github.com/neovim/neovim/wiki/Installing-Neovim#ubuntu
 
+install https://github.com/neovim/neovim/blob/master/INSTALL.md
+
 ```shell
 apt remove neovim
 ./nvim.appimage --appimage-extract
